@@ -42,9 +42,8 @@ img{
 button{
     width: 400px;
     border: none;
-    background-color: goldenrod;
+    background-color: red;
     padding-top: 10px;
-    padding-bottom: 10px;
 }
 h2{
     padding-left: 10px;
