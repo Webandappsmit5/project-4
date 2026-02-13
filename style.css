@@ -1,6 +1,7 @@
 
 body{
-    display: flex;
+    background-color: red;
+    display: grid;
 }
     ul{
     text-align: center;
